@@ -1,0 +1,6 @@
+local infiniteJumpEnabled = true 
+game.GetService("UserlnputService") JumpRequest
+if infiniteJumpEnabled then
+game.GetServicePlayers'.LocalPlayer.Charcter
+end
+end)
